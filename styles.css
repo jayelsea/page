@@ -71,7 +71,7 @@ body {
   display: flex;
   flex-direction: center;
   background-color: #333;
-  background-image: url('/imgs/4k-nature-sunrise-qqnac6fsnpq09r1i.jpg');
+  background-image: url('imgs/4k-nature-sunrise-qqnac6fsnpq09r1i.jpg');
   color: white;
   align-items: center;
   font-size: 50px;
@@ -100,7 +100,7 @@ body {
   padding: 10px;
   width: 500px;
   height: 500px;
-  background-image: url('/imgs/wet-green-leaves-qu5tu7ynnxd8qqwf.jpg');
+  background-image: url('imgs/wet-green-leaves-qu5tu7ynnxd8qqwf.jpg');
   border-radius: 14px;
 }
 .side-section .small {
@@ -109,7 +109,7 @@ body {
   padding: 10px;
   width: 500px;
   height: 500px;
-  background-image: url('/imgs/4k-ultra-hd-landscape-wallpaper-jg6mfopezujqddb3.jpg');
+  background-image: url('imgs/4k-ultra-hd-landscape-wallpaper-jg6mfopezujqddb3.jpg');
   border-radius: 14px;
 }
 
